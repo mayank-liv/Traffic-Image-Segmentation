@@ -45,6 +45,13 @@ Total parameters = 143,729
 All the parameters are trainable.
 
 
+
+
 ### NOTE - Due to speed and memory restrictions, this model was trained to just identify and segment the road from the image, rather than all the objects in the image.
 
+
+
 ## Training Results - 
+
+![Screenshot (107)](https://user-images.githubusercontent.com/46377211/65821860-04159200-e259-11e9-836b-f804bb358ca4.png)
+
