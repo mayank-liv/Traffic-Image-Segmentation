@@ -39,3 +39,12 @@ I make use of a U-net here, as it is known to provide good results in image segm
 | Conv2D | (None, 600, 800, 8) | 1736 |
 | Conv2D | (None, 600, 800, 8) | 584 |
 | Conv2D | (None, 600, 800, 1) | 9 |
+
+Total parameters = 143,729 
+
+All the parameters are trainable.
+
+
+### NOTE - Due to speed and memory restrictions, this model was trained to just identify and segment the road from the image, rather than all the objects in the image.
+
+## Training Results - 
