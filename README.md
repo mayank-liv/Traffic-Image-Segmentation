@@ -13,10 +13,10 @@ The dataset for this project was available at https://www.kaggle.com/kumaresanma
 ## Model Used -
 I make use of a U-net here, as it is known to provide good results in image segmentation tasks. 
 
-| | |
+|1 | 2|
 ------
-| | |
-| | | 
+|3 |4 |
+| 5| 6| 
 | | |
 | | |
 | | | 
