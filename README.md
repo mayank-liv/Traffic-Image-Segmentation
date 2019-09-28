@@ -51,7 +51,18 @@ All the parameters are trainable.
 
 
 
-## Training Results - 
+## Test Case Results - 
+
+The model 
+
+As we can see, the model works very well in segmenting out the road from the rest of the image, and gives a segmenting result very close to the actual, 100% accurate case.
 
 ![Screenshot (107)](https://user-images.githubusercontent.com/46377211/65821860-04159200-e259-11e9-836b-f804bb358ca4.png)
+
+
+.
+
+
+## Future Improvements - 
+Although the performance that I am getting from the model is satisfactory, it can be further perfected by tuning the hyperparameters as well as the number of layers and types of layers we use in the model. Moreover, I was restricted by processing speed which is why I focused just on segmenting out the road, but on availability of a GPU to run this train this model on, I can use this U-net model to segment out all the 13 different classes of objects that can be present in an image.  
 
